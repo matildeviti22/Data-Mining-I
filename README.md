@@ -1,6 +1,8 @@
 # Data-Mining-I
 
-# Board Games Dataset Analysis
+# Board Games Dataset Analysis 
+
+## [Read the full report](https://github.com/matildeviti22/Data-Mining-I/blob/main/report.pdf)
 
 This project was developed as part of the **Data Mining: Fundamentals** course and focuses on the analysis of a large board games dataset collected from **BoardGameGeek (BGG)**.
 
